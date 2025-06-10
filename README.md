@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshit</h1>
 <h3 align="center">Aspiring Web Developer | DSA in C++</h3>
 
-
+<a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank" > connect!</a>
 ---
 
 🌱 I’m currently sharpening my skills in **frontend development** (HTML, CSS, JS)  

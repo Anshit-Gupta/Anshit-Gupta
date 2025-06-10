@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm Anshit</h1>
 <h3 align="center">Aspiring Web Developer | DSA in C++</h3>
 
-<a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank" > connect!</a>
+<a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank" style="
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+" 
+onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)'"
+onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)'">
+  Connect!
+</a>
+
+
 ---
 
 🌱 I’m currently sharpening my skills in **frontend development** (HTML, CSS, JS)  

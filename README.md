@@ -1,40 +1,36 @@
 <h1 align="center">Hi 👋, I'm Anshit</h1>
 <h3 align="center">Aspiring Web Developer | DSA in C++</h3>
 
-<a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank" style="
-  display: inline-block;
-  padding: 12px 24px;
-  background-color: #4CAF50;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  font-family: Arial, sans-serif;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  transition: background-color 0.3s ease, transform 0.2s ease;
-" 
-onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)'"
-onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)'">
-  Connect!
-</a>
-
+<p align="center-left">
+  <a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect!-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Connect Button"/>
+  </a>
+</p>
 
 ---
 
-🌱 I’m currently sharpening my skills in **frontend development** (HTML, CSS, JS)  
-💻 I’m practicing **Data Structures & Algorithms in C++**  
-🎯 Actively looking to contribute to **beginner-friendly open-source projects**  
-📚 Learning by building 
-📫 Reach me at: [anshitgupta777@gmail.com](mailto:anshitgupta777@gmail.com)
+### 🧠 Currently Learning
+- 🌱 Sharpening my skills in **frontend development** (HTML, CSS, JS)  
+- 💻 Practicing **Data Structures & Algorithms in C++**  
+- 🎯 Looking to contribute to **beginner-friendly open-source projects**  
+- 📚 Learning by building  
+
+📫 **Reach me at:** 👉 [anshitgupta777@gmail.com](mailto:anshitgupta777@gmail.com)
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Anshit-Gupta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anshitgupta777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Anshit-Gupta">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anshitgupta777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,6 +43,15 @@ onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)
 </p>
 
 ---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anshit-Gupta&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -60,8 +65,3 @@ onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </p>
-
----
-
-
-

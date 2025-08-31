@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshit</h1>
-<h3 align="center">🚀 Aspiring Web Developer | DSA Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Aspiring Web Developer | DSA Enthusiast </h3>
 
 <p align="center">
   <a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank">

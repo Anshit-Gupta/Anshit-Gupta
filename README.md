@@ -21,9 +21,7 @@
 - 🔹 Practicing **Data Structures & Algorithms** in **C++**
 - 🔹 Exploring **open-source contributions** to improve my skills
 - 🔹 Learning by **building & shipping projects**  
-- 🔹 Recently built:  
-  - 🎲 [Dice Game](https://anshit-dice-game.vercel.app/) — fun, interactive game with React + Styled Components  
-  - 📊 [Trading Profit Calculator](https://github.com/Anshit-Gupta/Trading-Profit-Calculator) — calculates trading profits dynamically  
+
 
 📫 **Reach me at:** **[anshitgupta777@gmail.com](mailto:anshitgupta777@gmail.com)**  
 
@@ -32,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,cpp,git,github,vscode" />
 </p>
 
 ---
@@ -58,15 +56,7 @@
 
 ---
 
-### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|--------|------------|------------|-----------|
-| 🎲 **Dice Game** | Fun game with score tracking and error handling | React, Styled Components | [Live](https://anshit-dice-game.vercel.app/) |
-| 📊 **Trading Profit Calculator** | Calculates trading profits dynamically | HTML, CSS, JS | [Repo](https://github.com/Anshit-Gupta/Trading-Profit-Calculator) |
-| 🌓 **Theme Preference Switcher** | Switch between **Light & Dark mode** easily | HTML, CSS, JS | [Repo](https://github.com/Anshit-Gupta/Theme-Preference-Switcher) |
-
----
 
 ### 🔗 Let's Connect
 

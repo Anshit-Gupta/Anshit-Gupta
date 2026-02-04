@@ -1,33 +1,37 @@
 <h1 align="center">Hi 👋, I'm Anshit</h1>
-<h3 align="center">🚀 Aspiring Web Developer | DSA Enthusiast </h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   <a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank">
-    <img src="https://img.shields.io/badge/Bio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Bio"/>
+    <img src="https://img.shields.io/badge/Bio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:anshitgupta777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧠 What I'm Up To
+<h3 align="left">What I'm Up To</h3>
 
-- 🔹 Building **interactive frontend projects** using **React, Tailwind, and Framer Motion**
-- 🔹 Practicing **Data Structures & Algorithms** in **C++**
-- 🔹 Exploring **open-source contributions** to improve my skills
-- 🔹 Learning by **building & shipping projects**  
+<p align="left">
+  🔹 Building <b>full-stack projects</b> with React, Node.js, Express, and databases<br/>
+  🔹 Designing <b>clean, interactive UIs</b> using Tailwind CSS, Framer Motion, and GSAP<br/>
+  🔹 Working with <b>authentication, APIs, and data modeling</b><br/>
+  🔹 Learning by <b>building & shipping projects</b>
+</p>
 
-
-📫 **Reach me at:** **[anshitgupta777@gmail.com](mailto:anshitgupta777@gmail.com)**  
+<p align="center">
+  <b>Reach me at:</b>
+  <a href="mailto:anshitgupta777@gmail.com">anshitgupta777@gmail.com</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,nodejs,express,c,cpp,python" />
@@ -35,37 +39,30 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshit-Gupta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshit-Gupta&layout=compact&theme=tokyonight" width="320"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshit-Gupta&theme=tokyonight" alt="streak stats" width="600"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshit-Gupta&theme=tokyo-night" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+<h3 align="center">🔗 Let's Connect</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshit-Gupta&theme=tokyo-night" alt="Contribution Graph"/>
+  <a href="https://github.com/Anshit-Gupta">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anshitgupta777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-
-
-### 🔗 Let's Connect
-
 <p align="center">
-  <a href="https://github.com/Anshit-Gupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anshitgupta777@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  ⭐ Open to collaborations, open-source contributions, and frontend projects
 </p>
-
----
-
-⭐ I’m open to collaborations, open-source contributions, and frontend projects!

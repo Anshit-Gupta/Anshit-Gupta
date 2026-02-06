@@ -34,7 +34,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,nodejs,express,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql" />
 </p>
 
 ---

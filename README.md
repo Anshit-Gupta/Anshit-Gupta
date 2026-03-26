@@ -18,7 +18,7 @@
 <h3 align="left">What I'm Up To</h3>
 
 <p align="left">
-  🔹 Building <b>full-stack projects</b> with React, Node.js, Express, and databases<br/>
+  🔹 Building <b>full-stack projects</b> with Next.js, Typescript , express and databases<br/>
   🔹 Designing <b>clean, interactive UIs</b> using Tailwind CSS, Framer Motion, and GSAP<br/>
   🔹 Working with <b>authentication, APIs, and data modeling</b><br/>
   🔹 Learning by <b>building & shipping projects</b>
@@ -34,7 +34,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql,prisma,docker,redis,turborepo" />
 </p>
 
 ---

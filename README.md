@@ -2,14 +2,12 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://anshit-gupta.github.io/Anshit-bio/" target="_blank">
-    <img src="https://img.shields.io/badge/Bio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.anshitgupta.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" height="28"/>
   </a>
+ 
   <a href="mailto:anshitgupta777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white&labelColor=000000" height="28"/>
   </a>
 </p>
 

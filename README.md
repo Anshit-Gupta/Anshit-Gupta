@@ -1,66 +1,26 @@
-<h1 align="center">Hi 👋, I'm Anshit</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.anshitgupta.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" height="28"/>
-  </a>
- 
-  <a href="mailto:anshitgupta777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white&labelColor=000000" height="28"/>
-  </a>
-</p>
+# Anshit Gupta
 
----
+![Profile Views](https://count.getloli.com/get/@Anshit-Gupta?theme=booru-lisu)
 
-<h3 align="left">What I'm Up To</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cba6f7&center=true&vCenter=true&width=435&lines=full+stack+developer;engineer;software+tinkerer;builder)](https://git.io/typing-svg)
 
-<p align="left">
-  🔹 Building <b>full-stack projects</b> with Next.js, Typescript , express and databases<br/>
-  🔹 Designing <b>clean, interactive UIs</b> using Tailwind CSS, Framer Motion, and GSAP<br/>
-  🔹 Working with <b>authentication, APIs, and data modeling</b><br/>
-  🔹 Learning by <b>building & shipping projects</b>
-</p>
+## Connect
 
-<p align="center">
-  <b>Reach me at:</b>
-  <a href="mailto:anshitgupta777@gmail.com">anshitgupta777@gmail.com</a>
-</p>
+[![GitHub](https://img.shields.io/badge/github-Anshit--Gupta-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e&color=b4befe)](https://github.com/Anshit-Gupta) [![X](https://img.shields.io/badge/x-@AnshitGupta7x7-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4&labelColor=1e1e2e&color=f38ba8)](https://x.com/AnshitGupta7x7) [![LinkedIn](https://img.shields.io/badge/linkedin-Anshit%20Gupta-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e&color=74c7ec)](https://www.linkedin.com/in/anshit-gupta-2b2247365)
+
+[![Portfolio](https://img.shields.io/badge/portfolio-anshitgupta.in-1e1e2e?style=for-the-badge&logo=firefox-browser&logoColor=white&color=b4befe)](https://www.anshitgupta.in/) [![Log](https://img.shields.io/badge/log-blogs-1e1e2e?style=for-the-badge&logo=medium&logoColor=f5c2e7&color=cba6f7)](https://medium.com/@anshitgupta777)
+## GitHub Stats
+
+![GitHub Metrics](https://raw.githubusercontent.com/Anshit-Gupta/Anshit-Gupta/refs/heads/main/github-metrics.svg)
+
+## Snekitivity :>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshit-Gupta/Anshit-Gupta/refs/heads/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Anshit-Gupta/Anshit-Gupta/refs/heads/output/github-snake.svg" alt="GitHub Snake Animation" />
+</picture>
 
 ---
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql,prisma,docker,redis,turborepo" />
-</p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshit-Gupta&theme=tokyo-night" />
-</p>
-
----
-
-<h3 align="center">🔗 Let's Connect</h3>
-
-<p align="center">
-  <a href="https://github.com/Anshit-Gupta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anshit-gupta-2b2247365/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anshitgupta777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Open to collaborations, open-source contributions, and frontend projects
-</p>
+</div>
